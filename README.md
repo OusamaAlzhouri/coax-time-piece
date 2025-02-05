@@ -4,8 +4,8 @@
 
 Welcome to **COAX Time Piece**, where timeless elegance meets modern sophistication. Our platform is dedicated to showcasing the world's finest luxury watches, each crafted with precision and excellence. Whether you're a passionate collector, a first-time buyer, or someone who appreciates fine craftsmanship, COAX Time Piece offers an exceptional selection of watches to explore.
 
-<img src="./assets/img/coax-19.webp" alt="Luxury Watch" width="600">
-<img src="./assets/img/coax-16.webp" alt="Elegant Timepiece" width="600">
+<img src="./assets/img/coax-19.webp" alt="Luxury Watch" width="1000" height="300">
+<img src="./assets/img/coax-16.webp" alt="Elegant Timepiece" width="1000" height="300">
 
 ## Why Choose COAX Time Piece?
 
