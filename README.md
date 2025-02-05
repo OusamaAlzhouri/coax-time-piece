@@ -33,8 +33,11 @@ Our platform is built with cutting-edge technology to ensure a smooth and secure
 
 Visit our website and discover a world of luxury watches tailored to your style. Whether you're searching for a classic timepiece or a modern innovation, **COAX Time Piece** is your go-to destination.
 
-For more information, visit:
-- **[Our Official Website](https://yourwebsite.com)**
-- **[Luxury Watch Trends](https://luxurywatchtrends.com)**
-- **[Watch Care & Maintenance Guide](https://watchcareguide.com)**
+### Connect with Us
+
+Follow us on social media for the latest updates and exclusive offers:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
